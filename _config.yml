@@ -1,21 +1,16 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
-# Título do site (aparece no topo e no browser)
-title: "Aline Gracioli Bertolani"
+title: "Aline Bertolani"
+subtitle: "Análise e Ciência de Dados | Portfólio"
+description: "Portfólio de Aline Gracioli Bertolani - Analista de Dados em desenvolvimento para área de Ciência de Dados"
 
-# Subtítulo (aparece no cabeçalho da página)
-subtitle: "Analista de Dados | Portfólio"
-
-# Descrição para SEO
-description: "Olá! Me chamo Aline Gracioli Bertolani. Seja bem-vindo(a) ao meu portfólio online."
-
-# Ícones de redes sociais (exibidos automaticamente no footer, se configurar)
+# Links de redes sociais (aparecem no rodapé)
 social_links:
   github: "https://github.com/alinebertolani"
-  linkedin: "https://www.linkedin.com/in/aline-gracioli-bertolani/"
-  email: "mailto:seuemail@email.com"
+  linkedin: "www.linkedin.com/in/alinegraciolibertolani"
+  email: "alinegraciolibertolani@gmail.com"
 
-# Menu de navegação (navbar do tema)
+# Navegação (menu no cabeçalho)
 navbar:
   - name: "Início"
     link: "/"
@@ -26,5 +21,4 @@ navbar:
   - name: "Contato"
     link: "/contato"
 
-# Configuração de Markdown (opcional, mas melhora o estilo)
 markdown: kramdown
