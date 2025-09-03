@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Olá! Me chamo Aline Gracioli Bertolani. Seja bem vindo (a) ao meu Portfólio.
+Olá! Me chamo Aline Gracioli Bertolani. Seja bem vindo (a) ao meu Portfólio.
 ---
 📊 Analista de Dados Jr atuando na área de Licitação
 
