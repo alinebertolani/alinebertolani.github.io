@@ -1,12 +1,16 @@
 ---
-layout: home
-title: Início
+layout: page
+title: "Olá! Me chamo Aline Gracioli Bertolani."
+subtitle: "Seja bem-vindo(a) ao meu Portfólio"
 ---
 
-# 👋 Olá, eu sou Aline Gracioli Bertolani
+**Analista de Dados Jr atuando na área de Licitação**
 
-Sou Analista de Dados Jr com experiência em **extração, tratamento e análise de dados**, atuando com **Python (Pandas, NumPy, Matplotlib, Selenium, BeautifulSoup), SQL, Power BI e Excel**.  
+Principais ferramentas e atuações: Python (Pandas, NumPy, Matplotlib, Selenium, BeautifulSoup), SQL, Power BI, Excel. Extração, Tratamento e Análise de Dados.
 
-Atualmente, estou cursando **Bacharelado em Ciência de Dados pela Univesp** e **Análise e Ciência de Dados pela Pod Academy** 
+Em desenvolvimento para área de Ciência de Dados.
 
-Neste portfólio, você encontrará uma seleção dos meus projetos mais relevantes em Análise e Ciência de Dados. Fique á vontade para explorá-los.
+Cursando Bacharelado em Ciência de Dados pela Univesp.  
+Cursando formação em Análise e Ciência de Dados pela PodAcademy.
+
+Neste portfólio, você encontrará uma seleção dos meus projetos mais relevantes em Análise e Ciência de Dados. Fique à vontade para explorá-los.
