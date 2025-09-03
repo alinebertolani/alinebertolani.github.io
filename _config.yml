@@ -1,24 +1,15 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+title: "Olá! Me chamo Aline Gracioli Bertolani."
+description: "Seja bem vindo (a) ao meu Portfólio em Análise e Ciência de Dados"
+lang: pt-BR
+permalink: pretty
+fixed_navbar: top
 
-title: "Aline Bertolani"
-subtitle: "Análise e Ciência de Dados | Portfólio"
-description: "Portfólio de Aline Gracioli Bertolani - Analista de Dados em desenvolvimento para área de Ciência de Dados"
+# URLs do site (para SEO e links corretos)
+url: "https://alinebertolani.github.io"
+baseurl: ""   # user site -> vazio
 
-# Links de redes sociais (aparecem no rodapé)
-social_links:
-  github: "https://github.com/alinebertolani"
-  linkedin: "www.linkedin.com/in/alinegraciolibertolani"
-  email: "alinegraciolibertolani@gmail.com"
-
-# Navegação (menu no cabeçalho)
-navbar:
-  - name: "Início"
-    link: "/"
-  - name: "Sobre"
-    link: "/sobre"
-  - name: "Projetos"
-    link: "/projetos"
-  - name: "Contato"
-    link: "/contato"
-
-markdown: kramdown
+# Plugins whitelisted no GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
