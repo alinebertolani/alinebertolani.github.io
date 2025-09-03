@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Olá! Me chamo Aline Gracioli Bertolani. 
 Seja bem vindo (a) ao meu Portfólio.
 ---
