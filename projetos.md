@@ -5,9 +5,9 @@ title: Projetos
 
 # Projetos
 
-Aqui estão alguns dos meus projetos desenvolvidos:
+Aqui estão meus projetos desenvolvidos:
 
-## 📊 Webscrapring com Python + Selenium
+## 📊 Webscraping com Python + Selenium
 Extração no site Just Capital para **coletar e estruturar os dados** do ranking das 100 maiores empresas de capital aberto dos Estados Unidos.
 [🔗 Ver repositório](https://github.com/alinebertolani/web_scraping_justcapital)
 
