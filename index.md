@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Olá! Me chamo Aline Gracioli Bertolani."
-subtitle: "Seja bem-vindo(a) ao meu Portfólio"
+subtitle: "Seja bem-vindo(a) ao meu Portfólio em Análise e Ciência de Dados"
 ---
 
-👩‍💻**Analista de Dados Jr** atuando na área de Licitação
+👩‍💻**Analista de Dados Jr** atuando na área de Licitação.
 
 🛠️Principais ferramentas e atuações: Python (Pandas, NumPy, Matplotlib, Selenium, BeautifulSoup), SQL, Power BI, Excel. Extração, Tratamento e Análise de Dados.
 
