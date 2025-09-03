@@ -11,6 +11,7 @@ subtitle: "Seja bem-vindo(a) ao meu Portfólio"
 📊Em desenvolvimento para área de **Ciência de Dados**.
 
 🎓Cursando **Bacharelado em Ciência de Dados pela Univesp**.  
-🎓Cursando **formação em Análise e Ciência de Dados pela PodAcademy**.
+
+🎓Cursando **Formação em Análise e Ciência de Dados pela PodAcademy**.
 
 Neste portfólio, você encontrará uma seleção dos meus projetos mais relevantes em Análise e Ciência de Dados. Fique à vontade para explorá-los.
