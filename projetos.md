@@ -14,5 +14,5 @@ Extração no site Just Capital para **coletar e estruturar os dados** do rankin
 ---
 
 ## 📈 EDA com Python (Pandas)
-EDA (Exploratory Data Analysis) da Base de Dados de Acidentes de Trânsito em Rodovias Federais Brasileiras, cobrindo o período de 2014 a 2024.
+**EDA (Exploratory Data Analysis)** da Base de Dados de Acidentes de Trânsito em Rodovias Federais Brasileiras, cobrindo o período de 2014 a 2024.
 [🔗 Ver repositório](https://github.com/alinebertolani/Federal_Highway_Accidents)
