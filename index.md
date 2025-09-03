@@ -1,6 +1,3 @@
-Olá! Me chamo Aline Gracioli Bertolani. Seja bem vindo (a) ao meu Portfólio.
----
-
 📊 Analista de Dados Jr atuando na área de Licitação
 
 🛠️ Principais ferramentas e atuações: Python (Pandas, NumPy, Matplotilib, Selenium, BeautifulSoup), SQL, Power BI, Excel. Extração, Tratamento e Análise de Dados. 
