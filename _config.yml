@@ -1,2 +1,30 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-title: Olá! Me chamo Aline Gracioli Bertolani. Seja bem vindo (a) ao meu Portfólio.
+
+# Título do site (aparece no topo e no browser)
+title: "Aline Gracioli Bertolani"
+
+# Subtítulo (aparece no cabeçalho da página)
+subtitle: "Analista de Dados | Portfólio"
+
+# Descrição para SEO
+description: "Olá! Me chamo Aline Gracioli Bertolani. Seja bem-vindo(a) ao meu portfólio online."
+
+# Ícones de redes sociais (exibidos automaticamente no footer, se configurar)
+social_links:
+  github: "https://github.com/alinebertolani"
+  linkedin: "https://www.linkedin.com/in/aline-gracioli-bertolani/"
+  email: "mailto:seuemail@email.com"
+
+# Menu de navegação (navbar do tema)
+navbar:
+  - name: "Início"
+    link: "/"
+  - name: "Sobre"
+    link: "/sobre"
+  - name: "Projetos"
+    link: "/projetos"
+  - name: "Contato"
+    link: "/contato"
+
+# Configuração de Markdown (opcional, mas melhora o estilo)
+markdown: kramdown
